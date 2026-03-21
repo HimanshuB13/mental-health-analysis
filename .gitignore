@@ -1,0 +1,14 @@
+venv/
+data/raw/
+notebooks/data/
+*.so
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+venv/
+data/raw/
+notebooks/data/
+*.so
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
