@@ -1,7 +1,7 @@
 readme = """# Mental Health & Social Media Paradox
 
 ## Project overview
-End-to-end data analytics project analyzing how online social connectivity relates to mental health outcomes across 2,947 US counties.
+End-to-end data analytics project analyzing how online social connectivity relates to mental health outcomes across 2,947 US counties (administrative districts across 48 US states).
 
 ## Key finding
 Higher social media connectivity (SCI) correlates with **worse** mental health in poor counties but shows no harm in wealthy counties — disproving the universal "more connection = better wellbeing" assumption.
